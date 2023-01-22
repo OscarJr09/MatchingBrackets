@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBrackets", "MatchingBrackets\MatchingBrackets.csproj", "{7D283A0F-97A1-4580-93F9-D8EB7142F43A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBrackets.Test", "MatchingBrackets.Test\MatchingBrackets.Test.csproj", "{49FF7A84-2F78-411D-8DEA-0CC02A5B7692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D283A0F-97A1-4580-93F9-D8EB7142F43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D283A0F-97A1-4580-93F9-D8EB7142F43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D283A0F-97A1-4580-93F9-D8EB7142F43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D283A0F-97A1-4580-93F9-D8EB7142F43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FF7A84-2F78-411D-8DEA-0CC02A5B7692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF7A84-2F78-411D-8DEA-0CC02A5B7692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF7A84-2F78-411D-8DEA-0CC02A5B7692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF7A84-2F78-411D-8DEA-0CC02A5B7692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7832F7AD-980B-4D32-85D1-8B61C6E3F803}
+	EndGlobalSection
+EndGlobal
